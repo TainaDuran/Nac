@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CherrierCher</string>
+
+    <string name="player">Player</string>
+    <string name="build_by">Build with love by MeowTa!</string>
+    <string name="name">Type your name</string>
+
+    <string name="play">Play</string>
+    <string name="start">Start</string>
+    <string name="about">About</string>
+    <string name="back">Back</string>
+
+    <string name="victories">Victories: </string>
+    <string name="defeats">Defeats: </string>
+    <string name="ties">Ties: </string>
+    <string name="result">Result: </string>
+
+    <string name="you_win">You win!</string>
+    <string name="you_lose">You lose!</string>
+    <string name="drew">Drew!</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="n1_ficha">1</string>
+    <string name="n2_ficha">2</string>
+    <string name="n3_ficha">3</string>
+    <string name="n4_ficha">4</string>
+    <string name="n5_ficha">5</string>
+    <string name="n6_ficha">6</string>
+    <string name="n7_ficha">7</string>
+    <string name="n8_ficha">8</string>
+    <string name="n9_ficha">9</string>
+    <string name="n10_ficha">10</string>
+
+    <string name="selectChips">Select the number of chips:</string>
+    <string name="chips">Chips:</string>
+
+
+</resources>

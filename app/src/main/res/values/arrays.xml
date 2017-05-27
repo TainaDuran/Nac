@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="n_fichas">
+        <item>@string/n1_ficha</item>
+        <item>@string/n2_ficha</item>
+        <item>@string/n3_ficha</item>
+        <item>@string/n4_ficha</item>
+        <item>@string/n5_ficha</item>
+        <item>@string/n6_ficha</item>
+        <item>@string/n7_ficha</item>
+        <item>@string/n8_ficha</item>
+        <item>@string/n9_ficha</item>
+        <item>@string/n10_ficha</item>
+    </string-array>
+</resources>
